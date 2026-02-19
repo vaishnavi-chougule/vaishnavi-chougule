@@ -1,27 +1,68 @@
 # 👋 Hello, I'm Vaishnavi
 
-📈 Data Analyst || Aspiring Data Scientist || Python || EDA || SQL || Power BI || Tableau || Statistics ||Machine Learning || Deep Learning || Data visualization || NLP || Computer Vision || Gen AI
+🎯 Data Analyst | Aspiring Data Scientist | Business Intelligence Enthusiast  
 
-----
+📊 Turning raw data into meaningful insights that drive business decisions.
 
-## 👨‍💻 About Me
-- 📊 Data Analyst passionate about turning **data into insights**
-- 📈 Strong focus on **Business Intelligence** & **Data Visualization**
-- 🔍 Skilled in **EDA**, **data modeling**, and **performance tracking**
-- 🚀 Always **learning** and **improving analytical** & **technical skills**
-  
-----
+---
 
-## 🛠 Skills
+## 👩‍💻 About Me
 
-- **Languages:** SQL, Python
+- 📈 Passionate Data Analyst with strong analytical and problem-solving skills  
+- 📊 Experienced in Data Cleaning, Data Wrangling, and Exploratory Data Analysis (EDA)  
+- 📉 Focused on Business Intelligence & Data Visualization  
+- 🤖 Exploring Machine Learning, NLP & Generative AI  
+- 🚀 Continuously learning and improving technical & analytical skills  
 
-- **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+---
 
-- **Data Analysis:** Data Cleaning, Data Wrangling, EDA, Statistical Analysis
+## 🛠️ Technical Skills
 
-- **Visualization & BI:** Power BI, Excel (Advanced), Dashboard Development
+### 🔹 Languages
+- Python
+- SQL
 
-- **Database & Tools:** MySQL, PostgreSQL, ETL Processes
+### 🔹 Python Libraries
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
-- **Other:** KPI Tracking, Reporting Automation, Business Intelligence, Data Modeling
+### 🔹 Data Analysis
+- Data Cleaning
+- Data Wrangling
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Feature Engineering
+
+### 🔹 Visualization & BI Tools
+- Power BI
+- Tableau
+- Excel (Advanced)
+- Dashboard Development
+
+### 🔹 Databases & Tools
+- MySQL
+- PostgreSQL
+- ETL Processes
+- Git & GitHub
+
+---
+
+## 📌 What I’m Working On
+- Real-world Data Analysis Projects  
+- Business Intelligence Dashboards  
+- Machine Learning Projects  
+- Improving SQL & Python Expertise  
+
+---
+
+## 📫 Connect With Me
+- 📍 Pune, India  
+- 💼 LinkedIn: (https://www.linkedin.com/in/vaishnavi-chougule-3b7206323/)  
+- 📧 Email: (vaishnu.chougule103@gmail.com)
+
+---
+
+⭐ Always open to collaboration and learning opportunities!
